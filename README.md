@@ -1,14 +1,9 @@
-<table align="center" border="0" cellpadding="0" cellspacing="0">
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse;">
 <tr>
-<td align="center" valign="middle" width="240">
+<td align="center" valign="middle" width="240" style="border: none;">
   <img src="./njgk-vox.gif" width="200" alt="Nejigiku Vox" />
 </td>
-<td valign="top">
-
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=900&color=2563EB&center=false&vCenter=true&width=435&lines=Software+orientado+a+sistemas+internos+y+datos;Aplicaciones+web+%7C+Bases+de+datos+%7C+Procesos+reales;Construyendo+soluciones+para+operaciones+administrativas"
-    alt="Typing SVG"
-  />
+<td valign="top" style="border: none;">
 
   <h2>Nelson Jhon Gil Pari</h2>
 
@@ -34,6 +29,13 @@
 </table>
 
 <br />
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=900&color=2563EB&center=true&vCenter=true&width=720&lines=Software+orientado+a+sistemas+internos+y+datos;Aplicaciones+web+%7C+Bases+de+datos+%7C+Procesos+reales;Construyendo+soluciones+para+operaciones+administrativas"
+    alt="Typing SVG"
+  />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
