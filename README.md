@@ -30,7 +30,7 @@
     alt="Typing SVG"
   />
 </p>
-##
+## 
 
 ## Stack y tecnologías
 
