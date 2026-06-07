@@ -1,7 +1,7 @@
 <img
   align="left"
   src="./njgk-vox.gif"
-  width="175"
+  width="165"
   alt="Nejigiku Vox"
 />
 
@@ -23,23 +23,21 @@
   </a>
 </p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Open%20to-Practices%20%2F%20Junior-111827?style=flat-square" alt="Open to Practices / Junior" />
-  <img src="https://img.shields.io/badge/Focus-Web%20Apps%20%26%20Databases-111827?style=flat-square" alt="Focus Web Apps and Databases" />
-  <img src="https://img.shields.io/badge/Location-Peru-111827?style=flat-square" alt="Peru" />
-</p>
-
 <br clear="left" />
+
+---
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=17&duration=3500&pause=900&color=FFFFFFFF&center=true&vCenter=true&width=680&lines=Aplicaciones+web+%C2%B7+Bases+de+datos+%C2%B7+Sistemas+internos;Software+orientado+a+procesos+reales;Interfaces+administrativas+claras+y+funcionales"
+    src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=16&duration=3500&pause=900&color=E5E7EB&center=true&vCenter=true&width=650&lines=Aplicaciones+web+%C2%B7+Bases+de+datos+%C2%B7+Sistemas+internos;Software+orientado+a+procesos+reales;Interfaces+administrativas+claras+y+funcionales"
     alt="Typing SVG"
   />
 </p>
 
+---
+
 <p align="center">
-  <strong>Stack principal</strong>
+  <strong>Tecnologías y herramientas</strong>
 </p>
 
 <p align="center">
@@ -50,23 +48,18 @@
   <img src="https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-111827?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL" />
   <img src="https://img.shields.io/badge/Supabase-111827?style=flat-square&logo=supabase&logoColor=3ECF8E" alt="Supabase" />
+  <img src="https://img.shields.io/badge/HTML5-111827?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-111827?style=flat-square&logo=css&logoColor=1572B6" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-111827?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-111827?style=flat-square&logo=openjdk&logoColor=F89820" alt="Java" />
+  <img src="https://img.shields.io/badge/SQLite-111827?style=flat-square&logo=sqlite&logoColor=003B57" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Electron-111827?style=flat-square&logo=electron&logoColor=47848F" alt="Electron" />
   <img src="https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Figma-111827?style=flat-square&logo=figma&logoColor=F24E1E" alt="Figma" />
-</p>
-
-<p align="center">
-  <strong>Enfoque técnico</strong>
-</p>
-
-<p align="center">
-  Aplicaciones web · Bases de datos relacionales · Sistemas administrativos · Interfaces internas · Procesos reales
-</p>
-
-<p align="center">
-  <img
-    height="150"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelsonjhongp&layout=compact&theme=github_dark&hide_border=true"
-    alt="Top Languages"
-  />
+  <img src="https://img.shields.io/badge/Jira-111827?style=flat-square&logo=jira&logoColor=0052CC" alt="Jira" />
+  <img src="https://img.shields.io/badge/Confluence-111827?style=flat-square&logo=confluence&logoColor=172B4D" alt="Confluence" />
+  <img src="https://img.shields.io/badge/Vercel-111827?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Render-111827?style=flat-square&logo=render&logoColor=46E3B7" alt="Render" />
 </p>
