@@ -26,11 +26,10 @@ Estudiante de Ingeniería de Software enfocado en aplicaciones web, bases de dat
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3500&pause=900&color=38BDF8&center=true&vCenter=true&width=680&lines=Aplicaciones+web+%C2%B7+Bases+de+datos+%C2%B7+Sistemas+internos;Software+orientado+a+procesos+reales;Interfaces+administrativas+claras+y+funcionales"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3500&pause=900&color=4493f8&center=true&vCenter=true&width=680&lines=Aplicaciones+web+%C2%B7+Bases+de+datos+%C2%B7+Sistemas+internos;Software+orientado+a+procesos+reales;Interfaces+administrativas+claras+y+funcionales"
     alt="Typing SVG"
   />
 </p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
