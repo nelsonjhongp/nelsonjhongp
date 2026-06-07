@@ -5,24 +5,25 @@
   alt="Nejigiku Vox"
 />
 
-### Nelson Jhon Gil Pari
+### 👋 Nelson Jhon Gil Pari
 
-Estudiante de Ingeniería de Software enfocado en aplicaciones web, bases de datos, interfaces administrativas y herramientas para procesos reales.
+🎓 Estudiante de Ingeniería de Software  
+💻 Enfocado en aplicaciones web, bases de datos e interfaces administrativas  
+🧩 Interés en sistemas internos y herramientas para procesos reales  
 
-<a href="https://nelsonjhongp.github.io">
-  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-</a>
-<a href="https://www.linkedin.com/in/nelsonjhongp/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:nelsonjhongp@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
+<p align="left">
+  <a href="https://nelsonjhongp.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/nelsonjhongp/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:nelsonjhongp@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-<br>
-<br>
-<br>
-<br>
+<br clear="left" />
 
 <p align="center">
   <img
@@ -30,6 +31,7 @@ Estudiante de Ingeniería de Software enfocado en aplicaciones web, bases de dat
     alt="Typing SVG"
   />
 </p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
   <img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
