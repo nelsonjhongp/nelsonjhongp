@@ -1,7 +1,7 @@
-<table align="center">
+<table align="center" border="0" cellpadding="0" cellspacing="0">
 <tr>
-<td align="center" valign="middle" width="300">
-  <img src="./njgk-vox.gif" width="300" alt="Nejigiku Vox" />
+<td align="center" valign="middle" width="240">
+  <img src="./njgk-vox.gif" width="200" alt="Nejigiku Vox" />
 </td>
 <td valign="top">
 
