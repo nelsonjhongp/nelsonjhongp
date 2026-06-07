@@ -26,7 +26,7 @@ Estudiante de Ingeniería de Software enfocado en aplicaciones web, bases de dat
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=17&duration=3500&pause=900&color=FF9A5E&center=true&vCenter=true&width=680&lines=Aplicaciones+web+%C2%B7+Bases+de+datos+%C2%B7+Sistemas+internos;Software+orientado+a+procesos+reales;Interfaces+administrativas+claras+y+funcionales"
+    src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=17&duration=3500&pause=900&color=FFFFFFFF&center=true&vCenter=true&width=680&lines=Aplicaciones+web+%C2%B7+Bases+de+datos+%C2%B7+Sistemas+internos;Software+orientado+a+procesos+reales;Interfaces+administrativas+claras+y+funcionales"
     alt="Typing SVG"
   />
 </p>
