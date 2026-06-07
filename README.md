@@ -1,28 +1,37 @@
-<p align="center">
+<table align="center">
+<tr>
+<td align="center" valign="middle" width="300">
+  <img src="./njgk-vox.gif" width="300" alt="Nejigiku Vox" />
+</td>
+<td valign="top">
+
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=900&color=2563EB&center=true&vCenter=true&width=720&lines=Software+orientado+a+sistemas+internos+y+datos;Aplicaciones+web+%7C+Bases+de+datos+%7C+Procesos+reales;Construyendo+soluciones+para+operaciones+administrativas"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=900&color=2563EB&center=false&vCenter=true&width=435&lines=Software+orientado+a+sistemas+internos+y+datos;Aplicaciones+web+%7C+Bases+de+datos+%7C+Procesos+reales;Construyendo+soluciones+para+operaciones+administrativas"
     alt="Typing SVG"
   />
-</p>
 
-<h2 align="center">Nelson Jhon Gil Pari</h2>
+  <h2>Nelson Jhon Gil Pari</h2>
 
-<p align="center">
-  Estudiante de Ingeniería de Software enfocado en aplicaciones web, bases de datos,
-  interfaces administrativas y herramientas para procesos reales.
-</p>
+  <p>
+    Estudiante de Ingeniería de Software enfocado en aplicaciones web, bases de datos,
+    interfaces administrativas y herramientas para procesos reales.
+  </p>
 
-<p align="center">
-  <a href="https://nelsonjhongp.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/nelsonjhongp/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:nelsonjhongp@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+  <p>
+    <a href="https://nelsonjhongp.github.io">
+      <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+    </a>
+    <a href="https://www.linkedin.com/in/nelsonjhongp/">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:nelsonjhongp@gmail.com">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  </p>
+
+</td>
+</tr>
+</table>
 
 <br />
 
@@ -36,4 +45,3 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
 </p>
-```
