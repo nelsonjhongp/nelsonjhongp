@@ -1,9 +1,10 @@
-<table align="center" border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse;">
-<tr>
-<td align="center" valign="middle" width="240" style="border: none;">
-  <img src="./njgk-vox.gif" width="200" alt="Nejigiku Vox" />
-</td>
-<td valign="top" style="border: none;">
+<p align="left">
+  <img
+    align="left"
+    src="./njgk-vox.gif"
+    width="190"
+    alt="Nejigiku Vox"
+  />
 
   <h2>Nelson Jhon Gil Pari</h2>
 
@@ -23,16 +24,13 @@
       <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
   </p>
+</p>
 
-</td>
-</tr>
-</table>
-
-<br />
+<br clear="left" />
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=900&color=2563EB&center=true&vCenter=true&width=720&lines=Software+orientado+a+sistemas+internos+y+datos;Aplicaciones+web+%7C+Bases+de+datos+%7C+Procesos+reales;Construyendo+soluciones+para+operaciones+administrativas"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=900&color=F4D03F&center=true&vCenter=true&width=720&lines=Software+orientado+a+sistemas+internos+y+datos;Aplicaciones+web+%7C+Bases+de+datos+%7C+Procesos+reales;Construyendo+soluciones+para+operaciones+administrativas"
     alt="Typing SVG"
   />
 </p>
@@ -47,3 +45,4 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
 </p>
+```
