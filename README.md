@@ -30,7 +30,6 @@ Estudiante de Ingeniería de Software enfocado en aplicaciones web, bases de dat
     alt="Typing SVG"
   />
 </p>
-### Tecnologías
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
   <img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
