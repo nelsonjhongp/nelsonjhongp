@@ -23,14 +23,12 @@
   </a>
 </p>
 
-##
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=15&duration=3500&pause=900&color=E5E7EB&center=true&vCenter=true&width=620&lines=Aplicaciones+web+%C2%B7+Bases+de+datos+%C2%B7+Sistemas+internos;Software+orientado+a+procesos+reales;Interfaces+administrativas+claras+y+funcionales"
     alt="Typing SVG"
   />
 </p>
-## 
 
 ## Stack y tecnologías
 
