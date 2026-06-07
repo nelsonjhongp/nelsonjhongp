@@ -36,9 +36,7 @@
 
 <p align="center">· · ·</p>
 
-<p align="center">
-  <strong>Stack y tecnologías</strong>
-</p>
+## Stack y tecnologías
 
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
