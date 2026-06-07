@@ -8,8 +8,8 @@
 ### 👋 Nelson Jhon Gil Pari
 
 🎓 Estudiante de Ingeniería de Software  
-💻 Enfocado en aplicaciones web, bases de datos e interfaces administrativas  
-🧩 Interés en sistemas internos y herramientas para procesos reales  
+💻 Desarrollo aplicaciones web, interfaces administrativas y herramientas internas  
+🧩 Enfoque en bases de datos, procesos reales y soluciones funcionales  
 
 <p align="left">
   <a href="https://nelsonjhongp.github.io">
@@ -23,6 +23,12 @@
   </a>
 </p>
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Open%20to-Practices%20%2F%20Junior-111827?style=flat-square" alt="Open to Practices / Junior" />
+  <img src="https://img.shields.io/badge/Focus-Web%20Apps%20%26%20Databases-111827?style=flat-square" alt="Focus Web Apps and Databases" />
+  <img src="https://img.shields.io/badge/Location-Peru-111827?style=flat-square" alt="Peru" />
+</p>
+
 <br clear="left" />
 
 <p align="center">
@@ -30,6 +36,10 @@
     src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=17&duration=3500&pause=900&color=FFFFFFFF&center=true&vCenter=true&width=680&lines=Aplicaciones+web+%C2%B7+Bases+de+datos+%C2%B7+Sistemas+internos;Software+orientado+a+procesos+reales;Interfaces+administrativas+claras+y+funcionales"
     alt="Typing SVG"
   />
+</p>
+
+<p align="center">
+  <strong>Stack principal</strong>
 </p>
 
 <p align="center">
@@ -43,4 +53,20 @@
   <img src="https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Figma-111827?style=flat-square&logo=figma&logoColor=F24E1E" alt="Figma" />
+</p>
+
+<p align="center">
+  <strong>Enfoque técnico</strong>
+</p>
+
+<p align="center">
+  Aplicaciones web · Bases de datos relacionales · Sistemas administrativos · Interfaces internas · Procesos reales
+</p>
+
+<p align="center">
+  <img
+    height="150"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelsonjhongp&layout=compact&theme=github_dark&hide_border=true"
+    alt="Top Languages"
+  />
 </p>
