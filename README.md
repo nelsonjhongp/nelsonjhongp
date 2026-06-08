@@ -1,4 +1,4 @@
-<h1 align="center">Nelson Jhon Gil Pari</h1>
+<h1 align="center">Nelson Jhon</h1>
 
 <p align="center">
 Estudiante de Ingeniería de Software enfocado en aplicaciones web, bases de datos e interfaces administrativas para procesos reales.
