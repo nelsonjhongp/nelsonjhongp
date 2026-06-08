@@ -15,6 +15,7 @@
   <a href="https://nelsonjhongp.github.io/portafolio/">
     <img src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nelsonjhongp/)
   <a href="https://www.linkedin.com/in/nelsonjhongp/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
