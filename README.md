@@ -1,26 +1,13 @@
 <h1 align="center">Nelson Jhon</h1>
 
 <p align="center">
-Estudiante de Ingeniería de Software enfocado en aplicaciones web, bases de datos e interfaces administrativas para procesos reales
+  Construyendo aplicaciones web, herramientas locales y sistemas internos orientados a procesos reales
 </p>
 
 <p align="center">
   <a href="https://nelsonjhongp.github.io/portafolio/"><img src="https://img.shields.io/badge/Portfolio-%23121011.svg?logo=github&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/nelsonjhongp/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn" /></a>
 </p>
-
-<div align="center">
-
-### Actualmente enfocado en
-
-<p>
-Desarrollo web orientado a procesos reales<br/>
-Modelado de datos y bases de datos relacionales<br/>
-Interfaces administrativas claras y funcionales<br/>
-Validación de flujos, documentación y requerimientos
-</p>
-
-</div>
 
 <p align="center">
   <img
@@ -45,7 +32,7 @@ Validación de flujos, documentación y requerimientos
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000000" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white" alt="SQLite" />
   <img src="https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white" alt="Electron" />
 </p>
