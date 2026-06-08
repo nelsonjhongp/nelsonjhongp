@@ -12,7 +12,7 @@
 🧩 Enfoque en bases de datos, procesos reales y soluciones funcionales  
 
 <p align="left">
-  <a href="https://nelsonjhongp.github.io">
+  <a href="https://nelsonjhongp.github.io/portafolio/">
     <img src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/nelsonjhongp/">
